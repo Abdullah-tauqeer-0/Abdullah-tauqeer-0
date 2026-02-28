@@ -1,4 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d0d0d&height=80&section=header" width="100%" />
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
 <tr>
@@ -86,5 +85,3 @@ AI/CV researcher building systems that bridge medical imaging and production-gra
 </table>
 
 <hr/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d0d0d&height=60&section=footer" width="100%" />
