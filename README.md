@@ -1,10 +1,10 @@
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
 <tr>
-
+<td width="42%" valign="middle">
 
 ## Abdullah Tauqeer
-<hr/>
+
 
 **AI Researcher & ML Engineer**  
 York University, Toronto, Canada
