@@ -8,6 +8,8 @@
 <td width="42%" valign="middle">
 
 ## Abdullah Tauqeer
+<hr/>
+
 **AI Researcher & ML Engineer**
 York University · Toronto, Canada
 
@@ -58,6 +60,7 @@ from gigapixel pathology slides to RAG pipelines.
 <td width="50%" valign="top">
 
 #### ENGINEERING
+<hr/>
 
 &nbsp;
 
@@ -88,6 +91,7 @@ from gigapixel pathology slides to RAG pipelines.
 <td width="50%" valign="top">
 
 #### RESEARCH & VISION
+<hr/>
 
 &nbsp;
 
@@ -117,21 +121,6 @@ from gigapixel pathology slides to RAG pipelines.
 </tr>
 </table>
 
-&nbsp;
-
----
-
-&nbsp;
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abdullah-tauqeer-0&theme=github_dark" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abdullah-tauqeer-0&theme=github_dark" width="49%" />
-<br />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdullah-tauqeer-0&theme=github_dark" width="99%" />
-
-</div>
-
-&nbsp;
+<hr/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0d0d0d&height=60&section=footer" width="100%" />
