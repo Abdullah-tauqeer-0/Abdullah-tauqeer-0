@@ -125,9 +125,10 @@ from gigapixel pathology slides to RAG pipelines.
 
 <div align="center">
 
-![stats](https://github-readme-stats.vercel.app/api?username=Abdullah-tauqeer-0&show_icons=true&hide=contribs,prs,issues&hide_border=true&bg_color=0d1117&title_color=e6edf3&icon_color=58a6ff&text_color=8b949e&custom_title=STATS&count_private=true&rank_icon=github)
-&nbsp;&nbsp;
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-tauqeer-0&layout=compact&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&custom_title=LANGUAGES)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abdullah-tauqeer-0&theme=github_dark" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abdullah-tauqeer-0&theme=github_dark" width="49%" />
+<br />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdullah-tauqeer-0&theme=github_dark" width="99%" />
 
 </div>
 
