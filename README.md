@@ -64,7 +64,7 @@ AI/CV researcher building systems that bridge medical imaging and production-gra
 #### RESEARCH & VISION
 <hr/>
 
-[**SERN-MIL**](https://github.com/Abdullah-tauqeer-0/mIHC-AI-Driven-Triage-for-Prostate-Cancer) 
+[**SERN-MIL**]([https://github.com/Abdullah-tauqeer-0/mIHC-AI-Driven-Triage-for-Prostate-Cancer](https://github.com/Quantimb-Lab/SERN-MIL)) 
 <br/><sub><i>PyTorch | Multiple Instance Learning | Attention Pooling</i></sub>
 <br/><sub>Selective embedding retrieval MIL for prostate Gleason grading on whole-slide biopsies</sub>
 <br/><br/>
